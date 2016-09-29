@@ -96,7 +96,7 @@ class BurpExtender(IBurpExtender, ITab):
         #self._tomcatMainProgressBar = swing.JProgressBar();
         #self._tomcatMainProgressBar.setBounds(11, 222, 358, 20);
         #self._tomcatMainPanel.add(self._tomcatMainProgressBar);
-        self._tomcatMainAuthorLabel = swing.JLabel('Hacked by lynn')
+        self._tomcatMainAuthorLabel = swing.JLabel('Powdered by lynn')
         self._tomcatMainAuthorLabel.setHorizontalAlignment(swing.SwingConstants.CENTER);
         self._tomcatMainAuthorLabel.setBounds(11, 222, 358, 20);
         self._tomcatMainPanel.add(self._tomcatMainAuthorLabel);
