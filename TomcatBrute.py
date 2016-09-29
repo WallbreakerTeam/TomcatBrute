@@ -2,7 +2,7 @@
 '''
 Created on 2016-9-9
 
-@author: lynn
+@author: lynn in WallbreakerTeam
 '''
 
 from burp import IBurpExtender, ITab
