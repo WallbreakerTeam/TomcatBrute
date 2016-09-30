@@ -45,7 +45,7 @@ TomcatBrute.py（L给的插件）
 
 jython-standalone-2.7-b1.jar（插件使用python写的，要在burpsuite使用需要jython环境）
 
-https://repo1.maven.org/maven2/org/python/jython-standalone/2.7-b1/jython-standalone-2.7-b1.jar（下载地址）
+https://repo1.maven.org/maven2/org/python/jython-standalone/2.7-b1/jython-standalone-2.7-b1.jar
 
 步骤：<br/>
 ①打开burpsuite，进入Extender选项卡，点击子选项卡Options，添加jython-standalone-2.7-b1.jar到Python Environment。<br/>
