@@ -1,6 +1,6 @@
 <h1>WallbreakerTeam·TomcatBrute</h1><br/>
 
-必备材料：
+Required Documentation:
 
 Burpsuite
 
